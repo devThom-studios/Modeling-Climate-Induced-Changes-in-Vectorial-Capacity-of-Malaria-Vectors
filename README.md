@@ -1,10 +1,14 @@
 
+
+
+
+<h2 align='center' color='red'>
+  
 ```diff
 - Note that the paper has not been submitted yet. It is currently in progress.
 ```
-
-
-<h2 align='center' color='red'> <em>Note: </em> This paper has not been submitted yet. It is currently in progress. </h2>
+  
+</h2>
 <h3 align='center'> This article is based on my undergraduate thesis. </h3>
 
 <h4 align="center">
