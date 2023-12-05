@@ -10,6 +10,7 @@ Note that the paper has not been submitted yet. It is currently in progress.
 This article is based on my undergraduate thesis.
 ```
 </h2>
+<h4 align='center' >
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Summary&center=true&size=30">
   </a>
