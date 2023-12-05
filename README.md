@@ -8,10 +8,13 @@
 Note that the paper has not been submitted yet. It is currently in progress.
 ```
 </h2>
-<h3 align='center'> This article is based on my undergraduate thesis. </h3>
-
-<h4 align="center">
-  <a href="https://git.io/typing-svg">
+<h2 align='center'>
+  
+```diff
+This article is based on my undergraduate thesis.
+```
+</h2>
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Summary&center=true&size=30">
   </a>
 </h4>
