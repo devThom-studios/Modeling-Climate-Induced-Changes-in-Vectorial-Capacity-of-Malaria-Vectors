@@ -1,15 +1,15 @@
-<h2 align='center'>
+<h3 align='center'>
   
 ```diff
 Note that the paper has not been submitted yet. It is currently in progress.
 ```
-</h2>
-<h2 align='center'>
+</h3>
+<h3 align='center'>
   
 ```diff
 This article is based on my undergraduate thesis.
 ```
-</h2>
+</h3>
 <h4 align='center' >
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Summary&center=true&size=30">
