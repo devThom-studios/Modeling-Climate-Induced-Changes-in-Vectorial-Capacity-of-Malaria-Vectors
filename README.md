@@ -1,5 +1,5 @@
-### This paper has not been submitted yet. It is currently in progress.
-#### This article is based on my undergraduate thesis.
+<h2 align='center'> This paper has not been submitted yet. It is currently in progress. </h2>
+<h4 align='center'> This article is based on my undergraduate thesis. </h4>
 
 <h4 align="center">
   <a href="https://git.io/typing-svg">
