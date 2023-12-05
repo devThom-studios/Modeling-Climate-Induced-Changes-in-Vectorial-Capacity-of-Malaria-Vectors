@@ -8,7 +8,7 @@
 </h4>
 
 <p>
-The paper discusses enhancing malaria control in Ghana by modeling climate impacts on malaria vectors (Anopheles mosquitoes). It addresses Ghana's challenges in malaria surveillance, particularly the lack of rural data and climate integration. The study uses climate data to predict mosquito survival, distribution, and transmission potential, aiding targeted malaria control. It analyzes temperature and rainfall effects on mosquito breeding and survival, using Vectorial Capacity (VC) to gauge transmission rates. Data includes rainfall from CHIRPs, temperature from ECMWF's ERA5, and future climate scenarios from CORDEX.
+The paper discusses enhancing malaria control in Ghana by modeling climate impacts on malaria vectors (Anopheles mosquitoes). It addresses Ghana's challenges in malaria surveillance, particularly the lack of rural data and climate integration. The study uses climate data to predict mosquito survival, distribution, and transmission potential, aiding targeted malaria control. It analyzes temperature and rainfall effects on mosquito breeding and survival, using Vectorial Capacity (VC) to gauge transmission rates. Data includes rainfall from CHIRPs, temperature from ECMWF's ERA5, and future climate scenarios from CORDEX. Results show variations in malaria risk, guiding targeted control strategies. The study's approach helps adapt malaria efforts to changing transmission patterns, supporting effective interventions in Ghana.
 </p>
 
 <h4 align="center">
