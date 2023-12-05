@@ -1,12 +1,6 @@
 
 ### This paper has not been submitted yet. It is currently in progress.
-
-
-<h4 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+article+is+based+on+my+undergraduate+thesis&center=true&size=30">
-  </a>
-</h4>
+## This article is based on my undergraduate thesis.
 
 
 The paper discusses enhancing malaria control in Ghana by modeling climate impacts on malaria vectors (Anopheles mosquitoes). It addresses Ghana's challenges in malaria surveillance, particularly the lack of rural data and climate integration. The study uses climate data to predict mosquito survival, distribution, and transmission potential, aiding targeted malaria control. It analyzes temperature and rainfall effects on mosquito breeding and survival, using Vectorial Capacity (VC) to gauge transmission rates. Data includes rainfall from CHIRPs, temperature from ECMWF's ERA5, and future climate scenarios from CORDEX.
