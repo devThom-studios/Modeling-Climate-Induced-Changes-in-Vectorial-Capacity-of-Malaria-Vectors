@@ -1,5 +1,5 @@
 <h2 align='center'> This paper has not been submitted yet. It is currently in progress. </h2>
-<h4 align='center'> This article is based on my undergraduate thesis. </h4>
+<h3 align='center'> This article is based on my undergraduate thesis. </h3>
 
 <h4 align="center">
   <a href="https://git.io/typing-svg">
